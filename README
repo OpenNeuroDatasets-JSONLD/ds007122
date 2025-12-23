@@ -2,7 +2,7 @@ This dataset contains high-resolution layer-fMRI data (VASO and BOLD) acquired o
 
 Experimental Design: In autobiographical memory (AM) blocks, participants pressed a button after deciding on a memory. In mental arithmetic (MA) blocks, participants pressed a button after solving a simple mathematical problem and then iteratively added 3 to the result. 
 
-Sequence Details: VASO fMRI. The functional runs are interleaved nulled and not-nulled volumes. These have been split into separate files (cbv,bold).
+Sequence Details: VASO fMRI. The functional runs are interleaved nulled and not-nulled volumes. These have been split into separate files (cbv, bold).
 
 Scanner: NexGen 7T at UC Berkeley
 
