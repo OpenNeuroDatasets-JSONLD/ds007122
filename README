@@ -1,0 +1,8 @@
+Experimental Design: In autobiographical memory (AM) blocks, participants pressed a button after deciding on a memory. In mental arithmetic (MA) blocks, participants pressed a button after solving a simple mathematical problem and then iteratively added 3 to the result. 
+
+Sequence Details: VASO fMRI. The functional runs are interleaved nulled and not-nulled volumes. These have been split into separate files (_cbv,_bold).
+
+Scanner: NexGen 7T at UC Berkeley
+
+Preprocessing Notes: MP2RAGE have been had their noisy backgrounds and bias fields removed (https://github.com/srikash/MPRAGEise) and anonymized (https://github.com/poldracklab/pydeface). Functional files have two noise volumes at the end, suited for NORDIC denoising.
+
