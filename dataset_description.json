@@ -12,5 +12,6 @@
     "Funding": [
         "NIH (U01-EB025162, U24-NS129949, R44-MH129278), Weill NeuroHub"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007122.v1.0.0"
 }
