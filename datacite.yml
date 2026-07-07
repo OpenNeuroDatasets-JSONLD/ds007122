@@ -3,7 +3,7 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Haekkinen, Suvi
+      - name: Häkkinen, Suvi
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -39,7 +39,7 @@ data:
         contributorType: Researcher
         order: 5
     creators:
-      - name: Haekkinen, Suvi
+      - name: Häkkinen, Suvi
         nameType: Personal
       - name: Beckett, Alexander
         nameType: Personal
